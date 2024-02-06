@@ -1,5 +1,3 @@
-- 👋 Hola, soy @Vazquez1240
-- 👀 Me interesa mucho la programacion
 
 
 <!---
