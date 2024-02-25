@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 - Developing innovative solutions with Python and JavaScript.
 
 #### "Software should be like a bicycle: simple, practical, and easy to use." - Steve Jobs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazquez1240&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 <div align="center"> 
   <code><img width="42" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="42" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
