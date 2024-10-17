@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - Software engineering student.
 - Developing innovative solutions with Python and JavaScript.
 
-You can also find me on my other account as @martinDTV
+You can also find me on my other account as [@martinDTV](https://github.com/martinDTV).
 
 #### "Software should be like a bicycle: simple, practical, and easy to use." - Steve Jobs
 
