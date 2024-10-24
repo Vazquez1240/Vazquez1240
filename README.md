@@ -35,16 +35,12 @@ You can also find me on my other account as [@martinDTV](https://github.com/mart
 
   
 ### 🧰 Version Control
-|                                                        Technology Icon                                                        | Technology Name | 
+|                                                        Technology Icon                                                        | Technology Name |      
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
 | <img width="42" src="https://skillicons.dev/icons?i=git" alt='Git' title='Git' /> |     Git     |
 | <img width="42" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/> |      GitHub      |
 
-### 💾 Database
-|                                                        Technology Icon                                                        | Technology Name | 
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| <img width="42" src="https://skillicons.dev/icons?i=git" alt='Git' title='Git' /> |     Git     |
-| <img width="42" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/> |      GitHub      |
+
 
    
   | <img width="42" src="https://skillicons.dev/icons?i=bash" alt='Bash' title='Bash' />      |     bash      |
