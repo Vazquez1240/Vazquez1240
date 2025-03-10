@@ -1,5 +1,10 @@
 ### Hello World 👋
 
+
+<img src="https://komarev.com/ghpvc/?username=vazquez1240&label=Profile%20views&color=0e75b6&style=flat" alt="vazquez1240" /></p>
+
+
+
 #### I'm a software developer passionate about web development. 💻
 
 - I'm currently working as a web developer at Gobierno Digital in the Secretary of Innovation of Monterrey, NL.
